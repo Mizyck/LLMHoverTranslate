@@ -1,0 +1,24 @@
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 密钥 & 本地配置
+.env
+settings.json
+
+# PyInstaller
+*.spec
+*.manifest
+
+# OS
+.DS_Store
+Thumbs.db
